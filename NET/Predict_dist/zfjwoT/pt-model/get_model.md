@@ -1,0 +1,1 @@
+https://zhanglab-bioinf.com/ASEalign/pt-model.zip
