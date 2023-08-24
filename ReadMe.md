@@ -15,7 +15,7 @@ python dis2contact.py
 ```
 
 ## Template detection section：
-
+#PAcluster80：http://zhanglab-bioinf.com/PAthreader/database/PDB_AFDB_207187.tar
 ```bash
 #get dssp
 1.run_dssp0.py
