@@ -1,0 +1,1 @@
+python  /share/home/zhanglab/xxy/LF/MMthreader/test_MMthreader.py self_0.3 /share/home/zhanglab/xxy/LF/MMthreader/list1.txt
